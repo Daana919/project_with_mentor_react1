@@ -1,0 +1,55 @@
+/* * {
+	box-sizing: border-box;
+} */
+
+/* .registation-block {
+	width: 60%;
+	height: 60%;
+	background: transparent;
+} */
+
+/* html {
+	background: url(https://png.pngtree.com/png-https://img.freepik.com/premium-vector/https://static.wikia.nocookie.net/raftgame/images/d/d2/%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0_teaser.jpg/revision/latest?cb=20200102071434&path-prefix=ru-flying-bird-background_23-2147740483.jpg/20190509/ourmid/pngtree-black-birds-and-animals-flying-png-image_4285852.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+} */
+
+.registration-content {
+	background: rgba(0, 0, 0, 0.271);
+	border-radius: 3px;
+	position: absolute;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 50%;
+	height: 60%;
+}
+h2 {
+	color: #fff;
+	font-size: 30px;
+	margin-top: 10px;
+	margin: 10px 45px 30px;
+	padding: 0;
+	text-align: center;
+}
+
+/* div {
+	position: relative;
+} */
+
+input {
+	background: transparent;
+	border: none;
+	border-bottom: 1px solid #fff;
+	outline: none;
+	width: 100%;
+}
+.button-block {
+	width: 100%;
+	height: 100%;
+}
+
+.button1 {
+	position: absolute;
+	transform: translate(234px, 75px);
+}

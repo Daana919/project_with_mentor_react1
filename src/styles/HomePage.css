@@ -1,0 +1,57 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+.content_homepage {
+	margin-top: 60px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.title-home {
+	width: 45%;
+	font-size: 25px;
+	color: rgb(85, 82, 82);
+}
+body {
+	background: #f6f0ef;
+}
+
+.desc-right {
+	margin-top: 15px;
+	margin-left: 15px;
+	font-size: 15px;
+}
+strong {
+	color: black;
+}
+
+.desc-right-ask {
+	margin-bottom: 4px;
+}
+.find-store {
+	margin-top: 30px;
+}
+
+.title_carousel_block {
+	margin-top: 85px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	color: rgb(85, 82, 82);
+}
+.footer {
+	height: 60px;
+	width: 100%;
+	background: black;
+	color: white;
+}
+.content_footer {
+	height: 100%;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+	font-size: 10px;
+	color: grey;
+}
